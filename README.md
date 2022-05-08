@@ -1,3 +1,3 @@
-## Hi there! I'm Cherry
+### Hi there! I'm Cherry
 
-## ✨ About me 
+### ✨ About me 
