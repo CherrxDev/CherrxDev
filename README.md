@@ -6,3 +6,14 @@ Hello! How's it going! I am an enthusiastic learner, currently learning **Java S
 - 🎓 I am currently in 9th grade
 - ⛳ My goal is to become a Software Engineer and work for companies or do my own projects
 - 🎈 Learning **JavaScript**, **HTML** and **CSS**
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CherrxDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Cherry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Cherry)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CherrxDev)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CherrxDev&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/CherrxDev)  
